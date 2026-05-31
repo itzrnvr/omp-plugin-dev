@@ -1,0 +1,4 @@
+# Ignore everything except AGENTS.md
+*
+!AGENTS.md
+!.gitignore
