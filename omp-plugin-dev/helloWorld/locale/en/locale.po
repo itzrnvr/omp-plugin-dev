@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HelloWorldPlugin 1.0.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-15T12:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-15T12:00:00+00:00\n"
+"Language: en\n"
+
+msgid "plugins.generic.helloWorld.displayName"
+msgstr "Hello World"
+
+msgid "plugins.generic.helloWorld.description"
+msgstr "A simple plugin that adds a Hello World tab to the Website Settings page."
+
+msgid "plugins.generic.helloWorld.tabTitle"
+msgstr "Hello World"
+
+msgid "plugins.generic.helloWorld.defaultMessage"
+msgstr "Hello, World! Welcome to the Hello World plugin for OMP."
+
+msgid "plugins.generic.helloWorld.settingsTitle"
+msgstr "Hello World Plugin Settings"
+
+msgid "plugins.generic.helloWorld.settings.greetingMessage"
+msgstr "Greeting Message"
+
+msgid "plugins.generic.helloWorld.settings.greetingMessage.description"
+msgstr "Enter the greeting message to display on the Hello World tab."
+
+msgid "plugins.generic.helloWorld.settings.saved"
+msgstr "Hello World settings saved."
+
+msgid "plugins.generic.helloWorld.settings.validationError"
+msgstr "There was an error saving the Hello World plugin settings. Please check the form and try again."
+
+msgid "plugins.generic.helloWorld.settings.greetingMessage.required"
+msgstr "A greeting message is required."
